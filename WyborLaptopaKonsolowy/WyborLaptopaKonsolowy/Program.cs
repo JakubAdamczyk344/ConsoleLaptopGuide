@@ -43,7 +43,7 @@ namespace WyborLaptopaKonsolowy
                 rozmiar = "do 15,6 cala";
             }
             else rozmiar = "wszystkie";
-            Console.WriteLine("Rozmiar: {0}\nWaga: {1}", rozmiar, waga);
+            Console.WriteLine("Rozmiar: {0}\nWaga: {1},dupaaa", rozmiar, waga);
             Console.ReadLine();
 
         }

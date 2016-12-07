@@ -4,3 +4,9 @@ C:\Users\Kuba\Documents\Visual Studio 2015\Projects\WyborLaptopaKonsolowy\WyborL
 C:\Users\Kuba\Documents\Visual Studio 2015\Projects\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\obj\Debug\WyborLaptopaKonsolowy.csprojResolveAssemblyReference.cache
 C:\Users\Kuba\Documents\Visual Studio 2015\Projects\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\obj\Debug\WyborLaptopaKonsolowy.exe
 C:\Users\Kuba\Documents\Visual Studio 2015\Projects\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\obj\Debug\WyborLaptopaKonsolowy.pdb
+F:\KUBA\MAGISTERKA\Semestr2\Bazy wiedzy\ProjektNaGita\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\bin\Debug\WyborLaptopaKonsolowy.exe.config
+F:\KUBA\MAGISTERKA\Semestr2\Bazy wiedzy\ProjektNaGita\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\obj\Debug\WyborLaptopaKonsolowy.exe
+F:\KUBA\MAGISTERKA\Semestr2\Bazy wiedzy\ProjektNaGita\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\obj\Debug\WyborLaptopaKonsolowy.pdb
+F:\KUBA\MAGISTERKA\Semestr2\Bazy wiedzy\ProjektNaGita\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\bin\Debug\WyborLaptopaKonsolowy.exe
+F:\KUBA\MAGISTERKA\Semestr2\Bazy wiedzy\ProjektNaGita\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\bin\Debug\WyborLaptopaKonsolowy.pdb
+F:\KUBA\MAGISTERKA\Semestr2\Bazy wiedzy\ProjektNaGita\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\obj\Debug\WyborLaptopaKonsolowy.csprojResolveAssemblyReference.cache
