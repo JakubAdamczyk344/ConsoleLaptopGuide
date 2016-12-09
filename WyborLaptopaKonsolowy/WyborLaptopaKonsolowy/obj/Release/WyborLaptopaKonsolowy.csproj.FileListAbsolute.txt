@@ -1,0 +1,6 @@
+F:\KUBA\MAGISTERKA\Semestr2\Bazy wiedzy\ProjektNaGita\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\bin\Release\WyborLaptopaKonsolowy.exe.config
+F:\KUBA\MAGISTERKA\Semestr2\Bazy wiedzy\ProjektNaGita\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\bin\Release\WyborLaptopaKonsolowy.exe
+F:\KUBA\MAGISTERKA\Semestr2\Bazy wiedzy\ProjektNaGita\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\bin\Release\WyborLaptopaKonsolowy.pdb
+F:\KUBA\MAGISTERKA\Semestr2\Bazy wiedzy\ProjektNaGita\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\obj\Release\WyborLaptopaKonsolowy.csprojResolveAssemblyReference.cache
+F:\KUBA\MAGISTERKA\Semestr2\Bazy wiedzy\ProjektNaGita\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\obj\Release\WyborLaptopaKonsolowy.exe
+F:\KUBA\MAGISTERKA\Semestr2\Bazy wiedzy\ProjektNaGita\WyborLaptopaKonsolowy\WyborLaptopaKonsolowy\obj\Release\WyborLaptopaKonsolowy.pdb
